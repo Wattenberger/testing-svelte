@@ -16,7 +16,7 @@
 	}
 
 	h1 {
-		color: #45a;
+		color: teal;
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
