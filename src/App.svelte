@@ -3,8 +3,8 @@
 </script>
 
 <main>
-	<h1>Hellro  123 123{name}!</h1>
-	<p>We're updating the content live!</p>
+	<h1>Hellro {name}!</h1>
+	<p>We're updating the content!</p>
 </main>
 
 <style>
