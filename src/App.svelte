@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Hellro  123{name}!</h1>
-	<p>We're chan</p>
+	<p>We're changing the content live!</p>
 </main>
 
 <style>
