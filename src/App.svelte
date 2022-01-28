@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hellro  123{name}!</h1>
+	<h1>Hellro  123 123{name}!</h1>
 	<p>We're updating the content live!</p>
 </main>
 
