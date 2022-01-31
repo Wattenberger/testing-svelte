@@ -5,6 +5,7 @@
 <main>
 	<h1>Hellro {name}!</h1>
 	<p>We're updating the content!</p>
+	<p>Welcome!</p>
 </main>
 
 <style>
