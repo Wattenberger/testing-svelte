@@ -13,13 +13,14 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+        font-family: sans-serif;
 	}
 
 	h1 {
-		color: #ff3e00;
+		color: powderblue;
 		text-transform: uppercase;
 		font-size: 4em;
-		font-weight: 100;
+		font-weight: 900;
 	}
 
 	@media (min-width: 640px) {
