@@ -15,6 +15,8 @@
 		max-width: 240px;
 		margin: 0 auto;
         font-family: sans-serif;
+        border: 10px solid #ddd;
+        box-sizing: border-box;
 	}
 
 	h1 {
