@@ -4,8 +4,12 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p> 
 </main>
+
+<footer>
+  © 2022
+</footer>
 
 <style>
 	main {
@@ -13,6 +17,7 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+        min-height: 90vh;
 	}
 
 	h1 {
@@ -21,6 +26,10 @@
 		font-size: 4em;
 		font-weight: 100;
 	}
+    footer {
+      width: 100%;
+      text-
+    }
 
 	@media (min-width: 640px) {
 		main {
