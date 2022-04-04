@@ -17,7 +17,7 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
-        min-height: 87vh;
+        min-height: 83vh;
 	}
 
 	h1 {
