@@ -17,13 +17,15 @@
 	}
 
 	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
+		color: slate;
 		font-size: 4em;
-		font-weight: 100;
+		font-weight: 900;
+        letter-spacing: -0.03em;
+        font-family: sans-serif;
+      margin-bottom
 	}
     img {
-      width: 60%;
+      width: 50%;
       margin-top: 3em;
     }
 
