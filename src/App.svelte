@@ -17,7 +17,7 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
-        min-height: 90vh;
+        min-height: 87vh;
 	}
 
 	h1 {
@@ -27,8 +27,12 @@
 		font-weight: 100;
 	}
     footer {
-      width: 100%;
-      text-
+      width: calc(100%-2em);
+      text-align: center;
+      font-family: sans-serif;
+      background: #eaeaea;
+      padding: 1em;
+      margin: 1em;
     }
 
 	@media (min-width: 640px) {
