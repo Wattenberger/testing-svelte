@@ -14,6 +14,7 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+        font-family: sans-serif;
 	}
 
 	h1 {
@@ -21,8 +22,7 @@
 		font-size: 4em;
 		font-weight: 900;
         letter-spacing: -0.03em;
-        font-family: sans-serif;
-      margin-bottom
+        margin-bottom: 0;
 	}
     img {
       width: 50%;
