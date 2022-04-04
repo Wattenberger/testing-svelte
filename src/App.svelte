@@ -15,7 +15,9 @@
 		max-width: 240px;
 		margin: 0 auto;
         font-family: sans-serif;
-        border: 10px solid #ddd;
+        border: 10px solid #fff;
+        background: #f4f4f4;
+        height: 96vh;
         box-sizing: border-box;
 	}
 
@@ -28,7 +30,8 @@
 	}
     img {
       width: 50%;
-      margin-top: 3em;
+      margin-top: 1em;
+      border: 10px solid #fff;
     }
 
 	@media (min-width: 640px) {
